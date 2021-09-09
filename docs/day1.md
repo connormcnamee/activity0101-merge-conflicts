@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-author: "Connor McNamee"
+author: "Bruce Buurstra"
 ---
 
 # Example Text
